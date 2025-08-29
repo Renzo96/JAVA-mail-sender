@@ -7,7 +7,7 @@ import java.util.*;
 public class MailSender {
     public static void main(String[] args) {
         final String remitente = "rensogonsales@gmail.com";
-        final String clave = "fqwv gdwq owlf trtj";
+        final String clave = "";
         final String nombreTutor = "Renzo";
 
         Properties props = new Properties();
